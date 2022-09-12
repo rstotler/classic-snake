@@ -1,0 +1,4 @@
+SCREEN_SIZE = [40, 30]
+CELL_SIZE = 20
+GAME_STATE = "New Game"
+FPS = 12
